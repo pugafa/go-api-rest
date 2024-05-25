@@ -13,10 +13,12 @@ ejecucion
 	dbName := "test"
 
   2 instalar dependencias
-     go mod tidy
+     
+     $-  go mod tidy
 	
   3 ejecutar api
-     go run main.go
+     
+     $- go run main.go
 
- 4 abrir postman e importar el archivo postman collection
+ 4 abrir postman e importar el archivo postman collection que se encuentra en esta carpeta
 
